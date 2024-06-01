@@ -1,0 +1,18 @@
+[100%] Built target node
+-- Install configuration: ""
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/lib/tutorial_cpp/node
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/ament_index/resource_index/package_run_dependencies/tutorial_cpp
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/ament_index/resource_index/parent_prefix_path/tutorial_cpp
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/environment/ament_prefix_path.sh
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/environment/path.sh
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/environment/path.dsv
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/local_setup.bash
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/local_setup.sh
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/local_setup.zsh
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/local_setup.dsv
+-- Installing: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/package.dsv
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/ament_index/resource_index/packages/tutorial_cpp
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/cmake/tutorial_cppConfig.cmake
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/cmake/tutorial_cppConfig-version.cmake
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/package.xml

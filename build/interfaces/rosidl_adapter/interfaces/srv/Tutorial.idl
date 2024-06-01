@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interfaces/srv/Tutorial.srv
+// generated code does not contain a copyright notice
+
+
+module interfaces {
+  module srv {
+    struct Tutorial_Request {
+      uint64 a;
+
+      uint64 b;
+    };
+    struct Tutorial_Response {
+      double sum;
+    };
+  };
+};

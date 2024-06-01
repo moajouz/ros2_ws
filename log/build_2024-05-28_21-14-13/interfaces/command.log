@@ -1,0 +1,4 @@
+Invoking command in '/home/moajouz/ros2_ws/build/interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/moajouz/ros2_ws/install/tutorial_python:/opt/ros/foxy /usr/bin/cmake --build /home/moajouz/ros2_ws/build/interfaces -- -j12 -l12
+Invoked command in '/home/moajouz/ros2_ws/build/interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/moajouz/ros2_ws/install/tutorial_python:/opt/ros/foxy /usr/bin/cmake --build /home/moajouz/ros2_ws/build/interfaces -- -j12 -l12
+Invoking command in '/home/moajouz/ros2_ws/build/interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/moajouz/ros2_ws/install/tutorial_python:/opt/ros/foxy /usr/bin/cmake --install /home/moajouz/ros2_ws/build/interfaces
+Invoked command in '/home/moajouz/ros2_ws/build/interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/moajouz/ros2_ws/install/tutorial_python:/opt/ros/foxy /usr/bin/cmake --install /home/moajouz/ros2_ws/build/interfaces

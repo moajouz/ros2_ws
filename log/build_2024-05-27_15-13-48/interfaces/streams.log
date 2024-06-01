@@ -1,0 +1,35 @@
+[0.006s] Invoking command in '/home/moajouz/ros2_ws/build/interfaces': /usr/bin/cmake /home/moajouz/ros2_ws/src/interfaces -DCMAKE_INSTALL_PREFIX=/home/moajouz/ros2_ws/install/interfaces
+[0.264s] -- The C compiler identification is GNU 9.4.0
+[0.448s] -- The CXX compiler identification is GNU 9.4.0
+[0.455s] -- Check for working C compiler: /usr/bin/cc
+[0.506s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.507s] -- Detecting C compiler ABI info
+[0.557s] -- Detecting C compiler ABI info - done
+[0.566s] -- Detecting C compile features
+[0.566s] -- Detecting C compile features - done
+[0.569s] -- Check for working CXX compiler: /usr/bin/c++
+[0.626s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.627s] -- Detecting CXX compiler ABI info
+[0.681s] -- Detecting CXX compiler ABI info - done
+[0.690s] -- Detecting CXX compile features
+[0.691s] -- Detecting CXX compile features - done
+[0.699s] CMake Error at CMakeLists.txt:19 (find_package):
+[0.699s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[0.699s]   has asked CMake to find a package configuration file provided by
+[0.699s]   "ament_cmake", but CMake did not find one.
+[0.699s] 
+[0.699s]   Could not find a package configuration file provided by "ament_cmake" with
+[0.699s]   any of the following names:
+[0.699s] 
+[0.699s]     ament_cmakeConfig.cmake
+[0.699s]     ament_cmake-config.cmake
+[0.699s] 
+[0.699s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[0.699s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[0.699s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[0.700s]   has been installed.
+[0.700s] 
+[0.700s] 
+[0.700s] -- Configuring incomplete, errors occurred!
+[0.700s] See also "/home/moajouz/ros2_ws/build/interfaces/CMakeFiles/CMakeOutput.log".
+[0.701s] Invoked command in '/home/moajouz/ros2_ws/build/interfaces' returned '1': /usr/bin/cmake /home/moajouz/ros2_ws/src/interfaces -DCMAKE_INSTALL_PREFIX=/home/moajouz/ros2_ws/install/interfaces

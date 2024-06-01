@@ -1,0 +1,26 @@
+[0.497s] Invoking command in '/home/moajouz/ros2_ws/src/tutorial_python': CMAKE_PREFIX_PATH=/home/moajouz/ros2_ws/install/interfaces:/home/moajouz/ros2_ws/install/tutorial_cpp PYTHONPATH=/home/moajouz/ros2_ws/build/tutorial_python/prefix_override:/home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages:/home/moajouz/ros2_ws/install/interfaces/lib/python3.8/site-packages:/home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/tutorial_python build --build-base /home/moajouz/ros2_ws/build/tutorial_python/build install --record /home/moajouz/ros2_ws/build/tutorial_python/install.log --install-scripts $base/lib/tutorial_python --single-version-externally-managed install_data
+[0.664s] running egg_info
+[0.665s] writing ../../build/tutorial_python/tutorial_python.egg-info/PKG-INFO
+[0.665s] writing dependency_links to ../../build/tutorial_python/tutorial_python.egg-info/dependency_links.txt
+[0.665s] writing entry points to ../../build/tutorial_python/tutorial_python.egg-info/entry_points.txt
+[0.665s] writing requirements to ../../build/tutorial_python/tutorial_python.egg-info/requires.txt
+[0.665s] writing top-level names to ../../build/tutorial_python/tutorial_python.egg-info/top_level.txt
+[0.691s] reading manifest file '../../build/tutorial_python/tutorial_python.egg-info/SOURCES.txt'
+[0.692s] writing manifest file '../../build/tutorial_python/tutorial_python.egg-info/SOURCES.txt'
+[0.692s] running build
+[0.692s] running build_py
+[0.692s] copying tutorial_python/subscriber.py -> /home/moajouz/ros2_ws/build/tutorial_python/build/lib/tutorial_python
+[0.692s] running install
+[0.693s] running install_lib
+[0.694s] copying /home/moajouz/ros2_ws/build/tutorial_python/build/lib/tutorial_python/subscriber.py -> /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python
+[0.694s] byte-compiling /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python/subscriber.py to subscriber.cpython-38.pyc
+[0.695s] running install_data
+[0.695s] running install_egg_info
+[0.696s] removing '/home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python-0.0.0-py3.8.egg-info' (and everything under it)
+[0.697s] Copying ../../build/tutorial_python/tutorial_python.egg-info to /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python-0.0.0-py3.8.egg-info
+[0.697s] running install_scripts
+[0.710s] Installing node script to /home/moajouz/ros2_ws/install/tutorial_python/lib/tutorial_python
+[0.711s] Installing publisher script to /home/moajouz/ros2_ws/install/tutorial_python/lib/tutorial_python
+[0.711s] Installing subscriber script to /home/moajouz/ros2_ws/install/tutorial_python/lib/tutorial_python
+[0.711s] writing list of installed files to '/home/moajouz/ros2_ws/build/tutorial_python/install.log'
+[0.725s] Invoked command in '/home/moajouz/ros2_ws/src/tutorial_python' returned '0': CMAKE_PREFIX_PATH=/home/moajouz/ros2_ws/install/interfaces:/home/moajouz/ros2_ws/install/tutorial_cpp PYTHONPATH=/home/moajouz/ros2_ws/build/tutorial_python/prefix_override:/home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages:/home/moajouz/ros2_ws/install/interfaces/lib/python3.8/site-packages:/home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/tutorial_python build --build-base /home/moajouz/ros2_ws/build/tutorial_python/build install --record /home/moajouz/ros2_ws/build/tutorial_python/install.log --install-scripts $base/lib/tutorial_python --single-version-externally-managed install_data

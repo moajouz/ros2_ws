@@ -1,0 +1,45 @@
+[0.642s] Invoking command in '/home/moajouz/ros2_ws/src/tutorial_python': AMENT_PREFIX_PATH=/home/moajouz/ros2_ws/install/interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/moajouz/ros2_ws/install/interfaces LD_LIBRARY_PATH=/home/moajouz/ros2_ws/install/interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/moajouz/ros2_ws/build/tutorial_python/prefix_override:/home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages:/home/moajouz/ros2_ws/install/interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/tutorial_python build --build-base /home/moajouz/ros2_ws/build/tutorial_python/build install --record /home/moajouz/ros2_ws/build/tutorial_python/install.log --install-scripts $base/lib/tutorial_python --single-version-externally-managed install_data
+[0.855s] running egg_info
+[0.856s] creating ../../build/tutorial_python/tutorial_python.egg-info
+[0.856s] writing ../../build/tutorial_python/tutorial_python.egg-info/PKG-INFO
+[0.856s] writing dependency_links to ../../build/tutorial_python/tutorial_python.egg-info/dependency_links.txt
+[0.856s] writing entry points to ../../build/tutorial_python/tutorial_python.egg-info/entry_points.txt
+[0.857s] writing requirements to ../../build/tutorial_python/tutorial_python.egg-info/requires.txt
+[0.857s] writing top-level names to ../../build/tutorial_python/tutorial_python.egg-info/top_level.txt
+[0.859s] writing manifest file '../../build/tutorial_python/tutorial_python.egg-info/SOURCES.txt'
+[0.892s] reading manifest file '../../build/tutorial_python/tutorial_python.egg-info/SOURCES.txt'
+[0.893s] writing manifest file '../../build/tutorial_python/tutorial_python.egg-info/SOURCES.txt'
+[0.893s] running build
+[0.893s] running build_py
+[0.893s] creating /home/moajouz/ros2_ws/build/tutorial_python/build
+[0.894s] creating /home/moajouz/ros2_ws/build/tutorial_python/build/lib
+[0.894s] creating /home/moajouz/ros2_ws/build/tutorial_python/build/lib/tutorial_python
+[0.894s] copying tutorial_python/publisher.py -> /home/moajouz/ros2_ws/build/tutorial_python/build/lib/tutorial_python
+[0.894s] copying tutorial_python/subscriber.py -> /home/moajouz/ros2_ws/build/tutorial_python/build/lib/tutorial_python
+[0.894s] copying tutorial_python/__init__.py -> /home/moajouz/ros2_ws/build/tutorial_python/build/lib/tutorial_python
+[0.894s] copying tutorial_python/node.py -> /home/moajouz/ros2_ws/build/tutorial_python/build/lib/tutorial_python
+[0.895s] running install
+[0.895s] running install_lib
+[0.895s] creating /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python
+[0.896s] copying /home/moajouz/ros2_ws/build/tutorial_python/build/lib/tutorial_python/publisher.py -> /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python
+[0.896s] copying /home/moajouz/ros2_ws/build/tutorial_python/build/lib/tutorial_python/subscriber.py -> /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python
+[0.896s] copying /home/moajouz/ros2_ws/build/tutorial_python/build/lib/tutorial_python/__init__.py -> /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python
+[0.896s] copying /home/moajouz/ros2_ws/build/tutorial_python/build/lib/tutorial_python/node.py -> /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python
+[0.896s] byte-compiling /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python/publisher.py to publisher.cpython-38.pyc
+[0.897s] byte-compiling /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python/subscriber.py to subscriber.cpython-38.pyc
+[0.898s] byte-compiling /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python/__init__.py to __init__.cpython-38.pyc
+[0.898s] byte-compiling /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python/node.py to node.cpython-38.pyc
+[0.898s] running install_data
+[0.899s] creating /home/moajouz/ros2_ws/install/tutorial_python/share/ament_index
+[0.899s] creating /home/moajouz/ros2_ws/install/tutorial_python/share/ament_index/resource_index
+[0.899s] creating /home/moajouz/ros2_ws/install/tutorial_python/share/ament_index/resource_index/packages
+[0.899s] copying resource/tutorial_python -> /home/moajouz/ros2_ws/install/tutorial_python/share/ament_index/resource_index/packages
+[0.899s] copying package.xml -> /home/moajouz/ros2_ws/install/tutorial_python/share/tutorial_python
+[0.899s] running install_egg_info
+[0.901s] Copying ../../build/tutorial_python/tutorial_python.egg-info to /home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages/tutorial_python-0.0.0-py3.8.egg-info
+[0.902s] running install_scripts
+[0.918s] Installing node script to /home/moajouz/ros2_ws/install/tutorial_python/lib/tutorial_python
+[0.918s] Installing publisher script to /home/moajouz/ros2_ws/install/tutorial_python/lib/tutorial_python
+[0.918s] Installing subscriber script to /home/moajouz/ros2_ws/install/tutorial_python/lib/tutorial_python
+[0.919s] writing list of installed files to '/home/moajouz/ros2_ws/build/tutorial_python/install.log'
+[0.936s] Invoked command in '/home/moajouz/ros2_ws/src/tutorial_python' returned '0': AMENT_PREFIX_PATH=/home/moajouz/ros2_ws/install/interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/moajouz/ros2_ws/install/interfaces LD_LIBRARY_PATH=/home/moajouz/ros2_ws/install/interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/moajouz/ros2_ws/build/tutorial_python/prefix_override:/home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages:/home/moajouz/ros2_ws/install/interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/tutorial_python build --build-base /home/moajouz/ros2_ws/build/tutorial_python/build install --record /home/moajouz/ros2_ws/build/tutorial_python/install.log --install-scripts $base/lib/tutorial_python --single-version-externally-managed install_data

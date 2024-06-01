@@ -1,0 +1,5 @@
+[console_scripts]
+node = tutorial_python.node:main
+publisher = tutorial_python.publisher:main
+subscriber = tutorial_python.subscriber:main
+

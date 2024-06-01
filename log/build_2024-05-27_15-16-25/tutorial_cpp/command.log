@@ -1,0 +1,2 @@
+Invoking command in '/home/moajouz/ros2_ws/build/tutorial_cpp': /usr/bin/cmake /home/moajouz/ros2_ws/src/tutorial_cpp -DCMAKE_INSTALL_PREFIX=/home/moajouz/ros2_ws/install/tutorial_cpp
+Invoked command in '/home/moajouz/ros2_ws/build/tutorial_cpp' returned '1': /usr/bin/cmake /home/moajouz/ros2_ws/src/tutorial_cpp -DCMAKE_INSTALL_PREFIX=/home/moajouz/ros2_ws/install/tutorial_cpp

@@ -1,0 +1,21 @@
+[0.011s] Invoking command in '/home/moajouz/ros2_ws/build/tutorial_cpp': CMAKE_PREFIX_PATH=/home/moajouz/ros2_ws/install/interfaces:/home/moajouz/ros2_ws/install/tutorial_cpp:/home/moajouz/ros2_ws/install/tutorial_python:/opt/ros/foxy PYTHONPATH=/home/moajouz/ros2_ws/install/interfaces/lib/python3.8/site-packages:/home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/cmake --build /home/moajouz/ros2_ws/build/tutorial_cpp -- -j12 -l12
+[0.029s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.045s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.187s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.212s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.215s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.302s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.341s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.342s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.455s] -- Found interfaces: 0.0.0 (/home/moajouz/ros2_ws/install/interfaces/share/interfaces/cmake)
+[0.543s] CMake Error at /opt/ros/foxy/share/ament_cmake_target_dependencies/cmake/ament_target_dependencies.cmake:42 (message):
+[0.543s]   ament_target_dependencies() the first argument must be a valid target name
+[0.543s] Call Stack (most recent call first):
+[0.543s]   CMakeLists.txt:27 (ament_target_dependencies)
+[0.543s] 
+[0.543s] 
+[0.543s] -- Configuring incomplete, errors occurred!
+[0.544s] See also "/home/moajouz/ros2_ws/build/tutorial_cpp/CMakeFiles/CMakeOutput.log".
+[0.544s] See also "/home/moajouz/ros2_ws/build/tutorial_cpp/CMakeFiles/CMakeError.log".
+[0.547s] make: *** [Makefile:310: cmake_check_build_system] Error 1
+[0.550s] Invoked command in '/home/moajouz/ros2_ws/build/tutorial_cpp' returned '2': CMAKE_PREFIX_PATH=/home/moajouz/ros2_ws/install/interfaces:/home/moajouz/ros2_ws/install/tutorial_cpp:/home/moajouz/ros2_ws/install/tutorial_python:/opt/ros/foxy PYTHONPATH=/home/moajouz/ros2_ws/install/interfaces/lib/python3.8/site-packages:/home/moajouz/ros2_ws/install/tutorial_python/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/cmake --build /home/moajouz/ros2_ws/build/tutorial_cpp -- -j12 -l12

@@ -1,0 +1,5 @@
+make[2]: *** No rule to make target '/home/moajouz/ros2_ws/src/tutorial_cpp/src/publisher_member_function.cpp', needed by 'CMakeFiles/talker.dir/src/publisher_member_function.cpp.o'.  Stop.
+make[1]: *** [CMakeFiles/Makefile2:80: CMakeFiles/talker.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 50%] Built target node
+make: *** [Makefile:141: all] Error 2

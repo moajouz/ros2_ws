@@ -1,0 +1,4 @@
+uint64 a
+uint64 b
+---
+float64 sum

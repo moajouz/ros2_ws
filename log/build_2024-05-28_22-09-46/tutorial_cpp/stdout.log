@@ -1,0 +1,38 @@
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found interfaces: 0.0.0 (/home/moajouz/ros2_ws/install/interfaces/share/interfaces/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/moajouz/ros2_ws/build/tutorial_cpp
+[35m[1mScanning dependencies of target subscriber[0m
+[ 66%] Built target node
+[ 50%] Built target publisher
+[ 83%] [32mBuilding CXX object CMakeFiles/subscriber.dir/src/publisher.cpp.o[0m
+[100%] [32m[1mLinking CXX executable subscriber[0m
+[100%] Built target subscriber
+-- Install configuration: ""
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/lib/tutorial_cpp/node
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/lib/tutorial_cpp/publisher
+-- Installing: /home/moajouz/ros2_ws/install/tutorial_cpp/lib/tutorial_cpp/subscriber
+-- Set runtime path of "/home/moajouz/ros2_ws/install/tutorial_cpp/lib/tutorial_cpp/subscriber" to ""
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/ament_index/resource_index/package_run_dependencies/tutorial_cpp
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/ament_index/resource_index/parent_prefix_path/tutorial_cpp
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/environment/ament_prefix_path.sh
+-- Installing: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/environment/path.sh
+-- Installing: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/environment/path.dsv
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/local_setup.bash
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/local_setup.sh
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/local_setup.zsh
+-- Installing: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/local_setup.dsv
+-- Installing: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/package.dsv
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/ament_index/resource_index/packages/tutorial_cpp
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/cmake/tutorial_cppConfig.cmake
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/cmake/tutorial_cppConfig-version.cmake
+-- Up-to-date: /home/moajouz/ros2_ws/install/tutorial_cpp/share/tutorial_cpp/package.xml

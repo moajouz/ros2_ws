@@ -1,0 +1,7 @@
+{
+  "package_name": "interfaces",
+  "non_idl_tuples": [
+    "/home/moajouz/ros2_ws/src/interfaces:msg/Tutorial.msg",
+    "/home/moajouz/ros2_ws/src/interfaces:srv/Tutorial.srv"
+  ]
+}
